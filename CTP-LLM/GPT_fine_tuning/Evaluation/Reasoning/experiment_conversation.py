@@ -8,7 +8,7 @@ MODEL = "ft:gpt-3.5-turbo-0125:personal:med:94Cubggv"
 ROLE = 'You are a medical expert who specializes in analyzing clinical trials. Your role is to help the user predict whether a clinical trial will transition to the next phase. Answer only with Yes if it transitions to the next phase or No if it doesn\'t. If it does not transition also give an explanation why.'
 
 client = OpenAI(
-   api_key='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',
+   api_key='api_key',
 )
 
 def get_prediction(content):

@@ -6,8 +6,8 @@ from sklearn.metrics import (accuracy_score,
                              classification_report,
                              confusion_matrix)
 
-MODEL = 'ft:gpt-4o-mini-2024-07-18:personal::AImoy0yJ'
-API_KEY = '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'
+MODEL = 'model_name'
+API_KEY = 'API_key_here'
 FILE_PATH = 'Data/gpt4_test/test_I.csv'
 ROLE = 'You are a medical expert who specializes in analyzing clinical trials. Your role is to help the user predict whether a clinical trial will progress to the next phase. Answer only with Yes if it progresses to the next phase or No if it doesn\'t.'
 

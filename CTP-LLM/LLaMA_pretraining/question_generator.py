@@ -6,7 +6,7 @@ import re
 TASKS_FILE = 'data/processed/tasks_5.csv'
 
 client = OpenAI(
-   api_key='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',
+   api_key='api_key',
 )
 
 # Load trial data

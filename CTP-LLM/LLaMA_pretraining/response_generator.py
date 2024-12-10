@@ -1,10 +1,9 @@
 from openai import OpenAI
 import os
 
-#client.api_key = ['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']
 
 client = OpenAI(
-   api_key='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',
+   api_key='api_key',
 )
 
 completion = client.chat.completions.create(
