@@ -1,0 +1,70 @@
+Phase I:
+
+Accuracy: 0.732
+F1 Score: 0.730
+Accuracy for label 0: 0.821
+Accuracy for label 1: 0.642
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.82      0.75       257
+           1       0.78      0.64      0.71       257
+
+    accuracy                           0.73       514
+   macro avg       0.74      0.73      0.73       514
+weighted avg       0.74      0.73      0.73       514
+
+
+Confusion Matrix:
+[[211  46   0]
+ [ 92 165   0]
+ [  0   0   0]]
+
+-------------------------------------------------------------
+Phase II:
+
+Accuracy: 0.604
+F1 Score: 0.571
+Accuracy for label 0: 0.665
+Accuracy for label 1: 0.540
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.66      0.63       641
+           1       0.60      0.54      0.57       609
+
+    accuracy                           0.60      1250
+   macro avg       0.60      0.60      0.60      1250
+weighted avg       0.60      0.60      0.60      1250
+
+
+Confusion Matrix:
+[[426 215   0]
+ [280 329   0]
+ [  0   0   0]]
+
+ -------------------------------------------------------------
+Phase III:
+
+Accuracy: 0.706
+F1 Score: 0.744
+Accuracy for label 0: 0.547
+Accuracy for label 1: 0.867
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.55      0.65       632
+           1       0.65      0.87      0.74       618
+
+    accuracy                           0.71      1250
+   macro avg       0.73      0.71      0.70      1250
+weighted avg       0.73      0.71      0.70      1250
+
+
+Confusion Matrix:
+[[346 286   0]
+ [ 82 536   0]
+ [  0   0   0]]

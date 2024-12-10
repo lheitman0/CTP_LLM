@@ -1,0 +1,32 @@
+Phase I results: {
+    'test_loss': 0.7216748595237732, 
+    'test_accuracy': 0.585603112840467, 
+    'test_precision': 0.7444444444444445, 
+    'test_recall': 0.2607003891050584, 
+    'test_f1': 0.3861671469740634, 
+    'test_runtime': 34.6126, 
+    'test_samples_per_second': 14.85, 
+    'test_steps_per_second': 3.727
+    }
+
+Phase II results: {
+    'test_loss': 0.6794425845146179, 
+    'test_accuracy': 0.6104, 
+    'test_precision': 0.6666666666666666, 
+    'test_recall': 0.4006568144499179, 
+    'test_f1': 0.5005128205128204, 
+    'test_runtime': 81.3072, 
+    'test_samples_per_second': 15.374, 
+    'test_steps_per_second': 3.85
+    }
+
+Phase III results: {
+    'test_loss': 0.6496821641921997, 
+    'test_accuracy': 0.6376, 
+    'test_precision': 0.6027397260273972, 
+    'test_recall': 0.7831715210355987, 
+    'test_f1': 0.6812104152005629, 
+    'test_runtime': 75.6823, 
+    'test_samples_per_second': 16.516, 
+    'test_steps_per_second': 4.136
+    }

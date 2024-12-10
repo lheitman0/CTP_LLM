@@ -1,0 +1,4 @@
+Model accuracy score: 0.6774
+
+   precision    recall        f1  accuracy
+0        0.7  0.677419  0.688525  0.677419

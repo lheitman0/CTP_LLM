@@ -1,0 +1,286 @@
+Baseline
+
+Accuracy: 0.660
+F1 Score: 0.651
+Accuracy for label 0: 0.654
+Accuracy for label 1: 0.667
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.65      0.67       315
+           1       0.64      0.67      0.65       285
+
+    accuracy                           0.66       600
+   macro avg       0.66      0.66      0.66       600
+weighted avg       0.66      0.66      0.66       600
+
+
+Confusion Matrix:
+[[206 109   0]
+ [ 95 190   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+ 1 - Trial Name
+
+Accuracy: 0.645
+F1 Score: 0.642
+Accuracy for label 0: 0.622
+Accuracy for label 1: 0.670
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.62      0.65       315
+           1       0.62      0.67      0.64       285
+
+    accuracy                           0.65       600
+   macro avg       0.65      0.65      0.64       600
+weighted avg       0.65      0.65      0.65       600
+
+
+Confusion Matrix:
+[[196 119   0]
+ [ 94 191   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+2 - Brief
+
+Accuracy: 0.632
+F1 Score: 0.625
+Accuracy for label 0: 0.619
+Accuracy for label 1: 0.646
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.62      0.64       315
+           1       0.61      0.65      0.62       285
+
+    accuracy                           0.63       600
+   macro avg       0.63      0.63      0.63       600
+weighted avg       0.63      0.63      0.63       600
+
+
+Confusion Matrix:
+[[195 120   0]
+ [101 184   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+3 - Drug Used
+
+Accuracy: 0.637
+F1 Score: 0.612
+Accuracy for label 0: 0.667
+Accuracy for label 1: 0.604
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      0.67      0.66       315
+           1       0.62      0.60      0.61       285
+
+    accuracy                           0.64       600
+   macro avg       0.64      0.64      0.64       600
+weighted avg       0.64      0.64      0.64       600
+
+
+Confusion Matrix:
+[[210 105   0]
+ [113 172   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+4 - Drug Class
+
+Accuracy: 0.658
+F1 Score: 0.650
+Accuracy for label 0: 0.651
+Accuracy for label 1: 0.667
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.65      0.67       315
+           1       0.63      0.67      0.65       285
+
+    accuracy                           0.66       600
+   macro avg       0.66      0.66      0.66       600
+weighted avg       0.66      0.66      0.66       600
+
+
+Confusion Matrix:
+[[205 110   0]
+ [ 95 190   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+5 - Indication
+
+Accuracy: 0.643
+F1 Score: 0.632
+Accuracy for label 0: 0.641
+Accuracy for label 1: 0.646
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.64      0.65       315
+           1       0.62      0.65      0.63       285
+
+    accuracy                           0.64       600
+   macro avg       0.64      0.64      0.64       600
+weighted avg       0.64      0.64      0.64       600
+
+
+Confusion Matrix:
+[[202 113   0]
+ [101 184   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+6 - Target
+
+Accuracy: 0.668
+F1 Score: 0.656
+Accuracy for label 0: 0.670
+Accuracy for label 1: 0.667
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.67      0.68       315
+           1       0.65      0.67      0.66       285
+
+    accuracy                           0.67       600
+   macro avg       0.67      0.67      0.67       600
+weighted avg       0.67      0.67      0.67       600
+
+
+Confusion Matrix:
+[[211 104   0]
+ [ 95 190   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+7 - Therapy
+
+Accuracy: 0.648
+F1 Score: 0.633
+Accuracy for label 0: 0.657
+Accuracy for label 1: 0.639
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.66      0.66       315
+           1       0.63      0.64      0.63       285
+
+    accuracy                           0.65       600
+   macro avg       0.65      0.65      0.65       600
+weighted avg       0.65      0.65      0.65       600
+
+
+Confusion Matrix:
+[[207 108   0]
+ [103 182   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+8 - Lead Sponsor
+
+Accuracy: 0.645
+F1 Score: 0.632
+Accuracy for label 0: 0.648
+Accuracy for label 1: 0.642
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.65      0.66       315
+           1       0.62      0.64      0.63       285
+
+    accuracy                           0.65       600
+   macro avg       0.64      0.64      0.64       600
+weighted avg       0.65      0.65      0.65       600
+
+
+Confusion Matrix:
+[[204 111   0]
+ [102 183   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+9 - Criteria
+
+Accuracy: 0.623
+F1 Score: 0.652
+Accuracy for label 0: 0.514
+Accuracy for label 1: 0.744
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.51      0.59       315
+           1       0.58      0.74      0.65       285
+
+    accuracy                           0.62       600
+   macro avg       0.64      0.63      0.62       600
+weighted avg       0.64      0.62      0.62       600
+
+
+Confusion Matrix:
+[[162 153   0]
+ [ 73 212   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+10 - Primary Outcome
+
+Accuracy: 0.647
+F1 Score: 0.633
+Accuracy for label 0: 0.651
+Accuracy for label 1: 0.642
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.65      0.66       315
+           1       0.62      0.64      0.63       285
+
+    accuracy                           0.65       600
+   macro avg       0.65      0.65      0.65       600
+weighted avg       0.65      0.65      0.65       600
+
+
+Confusion Matrix:
+[[205 110   0]
+ [102 183   0]
+ [  0   0   0]]
+
+-----------------------------------------------------------------------
+11 - Secondary Outcome
+
+Accuracy: 0.652
+F1 Score: 0.635
+Accuracy for label 0: 0.663
+Accuracy for label 1: 0.639
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.66      0.67       315
+           1       0.63      0.64      0.64       285
+
+    accuracy                           0.65       600
+   macro avg       0.65      0.65      0.65       600
+weighted avg       0.65      0.65      0.65       600
+
+
+Confusion Matrix:
+[[209 106   0]
+ [103 182   0]
+ [  0   0   0]]

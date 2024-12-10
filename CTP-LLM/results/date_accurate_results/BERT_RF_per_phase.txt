@@ -1,0 +1,17 @@
+Phase I:
+Model accuracy score: 0.6420
+
+   precision    recall        f1  accuracy
+0   0.701657  0.494163  0.579909  0.642023
+
+Phase II:
+Model accuracy score: 0.5800
+
+   precision    recall        f1  accuracy
+0   0.581395  0.492611  0.533333      0.58
+
+Phase III:
+Model accuracy score: 0.6648
+
+   precision    recall        f1  accuracy
+0    0.63144  0.773463  0.695273    0.6648
