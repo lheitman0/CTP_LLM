@@ -1,0 +1,11 @@
+trial_id,prediction,confidence,true_label
+0,yes,Medium,No
+1,yes,Medium,No
+2,yes,High,Yes
+3,yes,Medium,No
+4,yes,High,Yes
+5,error,unknown,Yes
+6,yes,Medium,No
+7,error,unknown,Yes
+8,error,unknown,No
+9,yes,Medium,No

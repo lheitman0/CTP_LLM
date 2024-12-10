@@ -1,0 +1,6 @@
+# Virtual Environment
+ctp_env_new/
+saved_medical_model/
+saved_model/
+sentiment_classification/
+Data/
