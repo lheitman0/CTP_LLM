@@ -1,4 +1,4 @@
-This is continued work, under the guidance of Professor Xiao, of the work done by Michale Reinisch et al. https://arxiv.org/abs/2408.10995
+Under the guidance of Professor Xiao, I am continuing the work done by Michale Reinisch et al. https://arxiv.org/abs/2408.10995
 
 
 To be absolutely clear, a lot of this code is not mine. It is the continuation of Michael's repository. With that said I have developed quite a bit, all of which will be explicilty and clearly explained in my written report.
