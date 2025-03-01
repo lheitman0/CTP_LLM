@@ -7,3 +7,4 @@ Data/
 adapter_weights/
 deepseek/
 CTP-LLM/LLaMA_pretraining/MedicalLLAMA_3_Fine_Tuning.ipynb
+.vscode
